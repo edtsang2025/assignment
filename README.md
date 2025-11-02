@@ -6,7 +6,11 @@ Database name: **exercise**
 
 import the file "exercise-data-1.csv" into "exercise_table_1"
 
-- 4 fields : Username,First Name,Last Name,Phone Number
+- 4 fields : 
+    + Username
+    + First Name
+    + Last Name
+    + Phone Number
 - verification: Phone Number
 
 ```
@@ -17,18 +21,29 @@ python import-1.py
 
 import the file "exercise-data-2.csv" into "exercise_table_2"
 
-- 5 fields : Restaurant Name,Cuisine,Website,Phone Number,Capacity
+- 5 fields : 
+    + Restaurant Name
+    + Cuisine
+    + Website
+    + Phone Number
+    + Capacity
 - verification: Phone Number
 
 ```
-python import-3.py
+python import-2.py
 ```
 
 ## 3 import
 
 import the file "exercise-data-3.csv" into "exercise_table_3"
 
-- 6 fields : Job Title,Department,Last Name,First Name,Email,Phone Number
+- 6 fields : 
+    + Job Title
+    + Department
+    + Last Name
+    + First Name
+    + Email
+    + Phone Number
 - verification: Email and Phone Number
 
 ```
